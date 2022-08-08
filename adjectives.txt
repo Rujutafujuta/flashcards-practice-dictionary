@@ -1,0 +1,211 @@
+﻿viejo: former 
+encantador : charming
+herido : wounded
+importante : important
+acogedor : welcoming
+molesto : annoyed
+diferente : different 
+irritado : annoyed
+media : average
+imposible : impossible 
+agradable : pleasant
+divertido : fun
+impresionante : impressive
+clásico : classic
+aproximado : approximate
+impredecible : unpredictable 
+atento : attentive
+banal : banal
+fondo : bottom 
+desconocido : unknown
+injusta : unfair
+amargo : bitter
+mucho : a lot, much
+electrónica : electronics
+incapaz : incapable
+tonto, estúpido : stupid 
+bien : Good, well
+automático : automatic
+increíble : amazing 
+raro, extraño : weird 
+hermoso : beautiful
+colorido : colored
+independiente : independent 
+bueno: good
+estimulante : exhilarating 
+obstruido, tapado : clogged
+bronceado : tanned 
+ruidoso : noisy
+barato : inexpensive, cheap 
+tranquilo, calmado : calm 
+capaz : capable
+admirable : admirable 
+cautivador, cautivante : captivating 
+temperamental : character 
+cuadrado : square
+roto : broken
+catastrófica : catastrophic 
+famoso : famous 
+cálido, amable : warm, friendly 
+afortunado : lucky  
+caliente : hot 
+querido : dear 
+claro : clear
+excusable : excusable 
+pegajoso : sticky 
+comestible : edible 
+fácil de usar, acogedor : user-friendly 
+correcto, bueno : correct, good 
+culpablev : uilty
+excitado : excited 
+valientes : brave
+formidable, gran : great 
+corto : short 
+curiosos : curious
+exasperado : exasperated
+motivado : motivated 
+peligrosos : dangerous
+exacto : exact 
+asqueroso : disgusting
+contento : content
+entusiasta : enthusiastic 
+disgustado : disgusted
+comercial : commercial
+estrecha : narrow 
+delicioso : delicious
+confortable : comfortable 
+democrática : democratic
+evidente : obvious
+convincente : convincing
+deprimido : depressed 
+pasado : latest
+ancianos, Viejo : elderly
+excepcional : exceptional
+desagradable : unpleasant
+mudo : mute
+conveniente : suitable
+determinado : determined
+frecuente : frequent
+completo : complete
+ideal : ideal 
+desaparecido : disappeared 
+varios : various
+frío : cold
+compasivo : compassionate 
+dotado : gifted
+inmenso, enorme : huge 
+dulce, suave : sweet, soft
+cómodo : comfortable
+extraño : strange 
+divertido : funny
+maduro : ripe, mature 
+duro : hard
+fuerte : strong
+común : common
+eficaz, efectivo : effective
+insuficiente : insufficient 
+deslumbrante : dazzling 
+abrupto : abrupt 
+ecológica : ecological
+complejo : complex
+malvado : bad guy
+largo : long
+económico : economic 
+horrible : horrible
+misterioso : mysterious 
+aterrador : reepy, scary
+creíble : credible
+difícil : difficult
+internacional : international
+egoísta : selfish
+compacto : compact
+gigantesco : gigantic 
+eléctrica : electrical
+lejos : far
+histórico : history 
+elegante : elegant
+medio : medium 
+alejado, lejos : remote 
+conmovedor : moving 
+voluminoso, engorroso : bulky 
+enérgico : energetic
+muerto : dead
+creyente : believer 
+enojado : angry
+insoportable : unbearable
+mojado : wet
+dinámica : dynamic 
+aburrido : bored 
+enorme : huge
+minúscula, muy pequeña : tiny
+inteligente : intelligent
+confiando : trusting
+espantoso : dreadful
+moderno : modern
+juntos : together
+insignificante : insignificant
+cultural : cultural
+involucrado : involved
+mundial : worldwide 
+entero : integer 
+gruesos : thick
+excelente : excellent 
+picante : spicy 
+inmediato : immediate 
+equivalente : equivalent
+inocente : innocent 
+sorprendido : astonished 
+preocupado : worried 
+insostenible : untenable 
+prohibido : prohibited 
+interesante : interesting
+ejemplar : copy 
+fácil : easy 
+débil : low 
+agotador : tiresome
+inmóvil : stationary 
+cansado : tired 
+faux : fake
+cerrado : closed 
+fiable : reliable 
+ilegal : illegal 
+honesto : honest
+loco : crazy 
+frágil : fragile 
+gastos : fees 
+ilimitado : unlimited 
+húmedo : damp, wet
+furioso : furious 
+generoso : generous 
+agradable : nice 
+idiota : idiot 
+grande : great
+alto, superior, arriba : top
+feliz : happy
+idéntica : identical
+local : local 
+celosos : jealous
+joven : young
+encomiable : commendable
+irresistible : irresistible
+jugador : player
+lentos : slow 
+cobarde : coward 
+amplia : broad, wide 
+legal : legal
+inventiva : inventive 
+ligero : light 
+pesado : heavy 
+enfermo : sick
+amable : kind
+torpe : awkward, clumsy 
+infeliz : unfortunate
+malo : bad 
+desconfiado : wary
+maravilloso : wonderful 
+lindo : cute 
+miserable : crummy 
+delgada : thin 
+dinámica : dynamic 
+esponjoso : mellow 
+mortal : lethal

@@ -1,0 +1,128 @@
+Gato: Cat
+Perro: Dog
+Pez: Fish
+Tortuga: Turtle
+Pelo: Hair
+Ojos : Eyes
+Nariz : Nose
+Boca : Mouth
+Misterio : Mystery
+Aventura: Adventure
+Fantasía : Fantasy
+Novela : Novel
+Romance : Romance
+Computadora : Computer
+Ratón : Mouse
+Teclado : Keyboard
+Pantalla : Screen
+Audífonos : Headphone
+Enero : January
+Febrero : February
+Marzo : March
+Abril : April
+Mayo : May
+Junio : June
+Julio : July
+Gosto : August
+Septiembre : September
+Octubre : October
+Noviembre : November
+Diciembre : December
+Lunes : Monday
+Martes : Tuesday
+Miércoles : Wednesday
+Jueves : Thursday
+Viernes : Friday
+Sábado : Saturday
+Domingo : Sunday
+Carro : Car
+Auto : Car
+Motocicleta : Motorcycle
+Bicicleta : Bicycle
+Bus : Bus
+Tranvía : Tram
+Camisa : Shirt
+Pantalón : Pants
+Zapatos : Shoes
+Suéter : Sweater
+Chaqueta : Jacket
+Rojo : Red
+Naranja : Orange
+Amarillo : Yellow
+Verde : Green
+Azul : Blue
+Morado : Purple
+Blanco : White
+Negro : Black
+Gris : Gray
+Café : Brown
+Plato : Plate
+Tenedor : Fork
+Cuchara : Spoon
+Cuchillo : Knife
+Servilleta : Napkin
+Desayuno : Breakfast
+Almuerzo : Lunch
+Cena : Dinner
+Bocadillo : Snack
+Jardín : Garden
+Semillas : Seeds
+Tierra : Dirt
+Podadora : Lawnmower
+Planta : Plant (noun)
+Árbol : Tree
+Plantar : Plant (verb)
+Flor : Flower
+Frutas : Fruits
+Vegetales : Vegetables
+Especias : Spices
+Medicina : Medicine
+Hospital : Hospital
+Dieta : Diet
+Ejercicio : Exercise
+Salud : Health
+Enfermedad : Sickness
+Ño Nuevo : New Years
+Día del Cariño : Valentines Day
+Semana Santa : Holy Week
+Feriado : Holiday
+Vacaciones : Vacation
+Halloween : Halloween
+Día de la Independencia : Independence Day
+Casa : House
+Entrada : Entrance
+Cocina : Kitchen
+Baño : Bathroom
+Sala : Living room
+Cuarto : Bedroom
+Jardín : Garden
+Estudio : Study
+Comedor : Dinner Table
+Trabajo : Job
+Entrevista : Interview
+Salario : Salary
+Reunión : Meeting
+Correo electrónico : email
+Jefe : Boss
+Compañero / Compañera : Coworker
+Número : Number
+Suma : Addition
+Resta : Subtraction
+Multiplicación : Multiplication
+División : Division
+Cuadrado : Square
+Rectángulo : Rectangle
+Número : Number
+Suma : Addition
+Resta : Subtraction
+Multiplicación : Multiplication
+División : Division
+Cuadrado : Square
+Rectángulo : Rectangle
+Deporte : Sports
+Fútbol : Soccer
+Pelota : Ball
+Deportista : Athlete
+Natación : Swimming
+Fútbol Americano : Football
+Campeonato : Championship
